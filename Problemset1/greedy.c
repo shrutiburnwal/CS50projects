@@ -1,5 +1,5 @@
-https://ide.cs50.io/shrucodeti/cs50#openfile-README.md //link to show the work on cs50 ide as reference
-
+//https://ide.cs50.io/shrucodeti/cs50#openfile-README.md //link to show the work on cs50 ide as reference
+//https://cs50.me/submissions/cs50/2017/x/greedy //LINK OF SUBMISSION
 
 
 #include<stdio.h>
